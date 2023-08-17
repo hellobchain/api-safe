@@ -1,0 +1,6 @@
+package constant
+
+const (
+	DEFAULT_TIME_ERR_SECOND     = 15 * 60
+	DEFAULT_NONCE_EXPIRE_SECOND = DEFAULT_TIME_ERR_SECOND * 2
+)
